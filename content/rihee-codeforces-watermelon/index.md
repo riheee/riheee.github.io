@@ -1,6 +1,6 @@
 ---
 emoji: 🍉
-title: (Codefoces)4A Watermelon
+title: (Codeforces)4A Watermelon
 date: '2022-02-22 00:00:00'
 author: rihee
 tags: rihee algorithm codeforces watermelon
