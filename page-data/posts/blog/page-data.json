@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/blog",
+    "result": {"pageContext":{"currentCategory":"blog","categories":["All","blog","Codeforces"],"edges":[{"node":{"id":"d1000d1f-f5a4-561b-bf76-c9ddf347bcc4","excerpt":"⭐️ Markdown 마크다운은 텍스트 기반의 마크업 언어로, 쉽고 간단하게 사용이 가능하다는 장점이 있다. github블로그는 마크다운 언어로 작성하기 때문에 주로 사용되는 마크다운 문법을 정리하였다. ✔️ Header 종류 h1 h2 h3 h4 h5 h6 📌 개행 line1 line2 ✒️ 문단 바꾸기 문단 1 문단 2 ✏️ 줄바꿈 📚 인용문 인용문 인용문 🏞 이미지 경로 📎 링크 📎 이미지 링크 🗄 목차 생성 글의 우측에 목차가 보이기를 원하면  파일 맨 아래에 다음 내용을 추가하면 자동으로 목차가 생성. 🖥 코드블럭 ➰ bash ➰ 자바스크립트 ✨ 강조 강조1 강조2 강조 강조 밑줄  취소선 📈 구분선 📝 리스트 작성 리스트1 리스트2 리스트A 리스트B 리스트2 하나 둘 셋 셋에 하나 셋에 둘 ⭐️ Markdown ✔️ Header 종류 h2 h3 h4 h5 h6 📌 개행 ✒️ 문단 바꾸기 ✏️ 줄바꿈 📚 인용문 🏞 이미지 경로 📎 링크 📎 이미지 링크 🗄 목차 생성 🖥 코드블럭 ➰ ba…","fields":{"slug":"/gatsby-starter-zoomkoding-introduction/"},"frontmatter":{"categories":"blog","title":"Markdown Syntax","date":"February 22, 2022"}},"next":{"fields":{"slug":"/rihee-codeforces-watermelon/"}},"previous":null}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
